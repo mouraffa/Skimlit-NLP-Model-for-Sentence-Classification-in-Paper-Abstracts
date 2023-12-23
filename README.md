@@ -75,8 +75,8 @@ I trained a TF-IDF Multinomial Naive Bayes model as a baseline. Subsequently, I 
 
 ## Results 🎉
 
-![Baseline vs. Deep Model](comar.png)
-![Baseline vs. Deep Model](f1.png)
+![`Baseline vs. Deep Mode`l](comar.png)
+![`Baseline vs. Deep Model`](f1.png)
 
 ## Usage 🚀
 
