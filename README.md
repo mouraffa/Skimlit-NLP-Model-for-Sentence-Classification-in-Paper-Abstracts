@@ -23,8 +23,7 @@ In this NLP project, I endeavored to replicate the paper "Neural Networks for Jo
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)](#)
 [![TensorFlow Hub](https://img.shields.io/badge/-TensorFlow%20Hub-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)](#)
 [![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)](#)
-[!Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=F9AB00)](#)
-
+[![Google Colab GPUs](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=F9AB00)](#)
 
 ## Data 📊
 
@@ -83,8 +82,8 @@ I trained a TF-IDF Multinomial Naive Bayes model as a baseline. Subsequently, I 
 ## Usage 🚀
 
 To run the code:
-1. Clone the repository: `https://github.com/mouraffa/Skimlit-NLP-Model-for-Sentence-Classification-in-Paper-Abstracts.git`
-2. Open the notebook in Google Colab: `Skimlit_NLP_Model_for_Sentence_Classification_in_Paper_Abstracts.ipynb`
+1. Clone the repository: ```https://github.com/mouraffa/Skimlit-NLP-Model-for-Sentence-Classification-in-Paper-Abstracts.git```
+2. Open the notebook in Google Colab: ```Skimlit_NLP_Model_for_Sentence_Classification_in_Paper_Abstracts.ipynb```
 3. Follow the instructions within the notebook to execute the code.
 
 Feel free to reach out for questions or collaboration! 🤝
